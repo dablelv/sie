@@ -1,4 +1,4 @@
-@[toc]
+<h1 align="center">一文拿下 SIE 考试</h1>
 
 # 1. 前言
 金融领域，尤其是证券行业，获取专业资格是至关重要的一步。
@@ -13,18 +13,23 @@ SIE 考试的目的不仅仅是为了获取专业资格，更重要的是通过�
 SIE（Securities Industry Essentials）考试是由美国金融业监管局（FINRA）开发的金融行业入门考试，旨在帮助考生掌握金融领域的基本知识及证券行业的基本概念。
 
 1. 入门性（Essentials）
+
 SIE 是证券行业的“基础”考试，旨在测试对金融市场基本概念和规则的了解，而不是特定产品或销售技巧。
 
 2. 前置性（Prerequisite）
- SIE 本身并不能让你从事任何具体的证券业务。通过 SIE 后，你还需要通过一门代表资格考试（Representative Level Exam），如 Series 6、Series 7 等，才能成为注册代表并从事相关证券业务。
+
+SIE 本身并不能让你从事任何具体的证券业务。通过 SIE 后，你还需要通过一门代表资格考试（Representative Level Exam），如 Series 6、Series 7 等，才能成为注册代表并从事相关证券业务。
 
 3. 无赞助要求（No Sponsorship Required）
+
 这是 SIE 最关键的特点之一。任何人（包括大学生、转行人士、对金融感兴趣的人）都可以报名参加，不需要由券商（Broker-Dealer）赞助。这为人们进入证券行业提供了一个低门槛的“敲门砖”。
 
 4. 成绩有效期
+
 通过 SIE 后，成绩有效期为4年。你需要在4年内找到一家愿意赞助你的券商，并通过所需的代表资格考试，才能完成注册。
 
 通过 SIE 后，可以转入多种金融工作，如投行、证券分析、私募发行、行业调研和证券交易等，不过前提是还要考取具体的从业执照。
+
 # 3. 注册报名
 考试报名与预约需提前两周左右。
 
@@ -84,7 +89,7 @@ https://www.finra.org/registration-exams-ce/qualification-exams/securities-indus
 
 2. 了解答题界面
 
-可以在线体验下考试答题页面，[点击这里](https://www.finra.org/sites/default/files/external_apps/proctor_tutorial.swf.html)。
+可以在线体验考试答题页面，[点击这里](https://www.finra.org/sites/default/files/external_apps/proctor_tutorial.swf.html)。
 
 3. 线上考试环境要求
 
@@ -106,6 +111,7 @@ https://www.finra.org/registration-exams-ce/qualification-exams/securities-indus
 4. 线上考试电脑设备要求
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/43d78bbdfcba4ea3b18b5e5323b0bf39.png)
+
 有一点需要注意：ProProctor 软件有个设定，一旦你进入考试界面，将无法调整音量，需要需要提前解除静音，调整好音量。
 
 # 5. 备考流程
@@ -117,7 +123,7 @@ https://www.finra.org/sites/default/files/SIE_Content_Outline.pdf
 
 2. 知识点掌握
 
-以书籍《Securities Industry Essentials Exam 2025-2026 For Dummies》的内容来学习。
+以书籍《SIE Exam 2025-2026 For Dummies》的内容来学习。
 
 该书籍暂未找到在线版本，可以在 [dokumen.pub](https://dokumen.pub/sie-exam-2025-2026-for-dummies-securities-industry-essentials-exam-prep-practice-tests-amp-flashcards-online-9781394261871-9781394261888-9781394261895.html) 下载 PDF 版本。
 
@@ -199,7 +205,7 @@ SIE 考试的重考政策（Cooling-off Period）旨在让你有足够的时间�
 详见 [Reschedule or Cancel Your Appointment](https://www.finra.org/registration-exams-ce/qualification-exams/cancellation-policy)。
 
 # 8.小结
-相关文档与资料已上传至 [Github]()，欢迎大家提建议优化，众人拾柴火焰高。
+欢迎大家提建议优化，众人拾柴火焰高。
 
 ---
 # 参考文献

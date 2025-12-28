@@ -210,4 +210,5 @@ SIE 考试的重考政策（Cooling-off Period）旨在让你有足够的时间�
 ---
 # 参考文献
 [Securities Industry Essentials® (SIE®) Exam](https://www.finra.org/registration-exams-ce/qualification-exams/securities-industry-essentials-exam)
+
 [SIE Exam and Exam Restructuring Frequently Asked Questions (FAQ)](https://www.finra.org/registration-exams-ce/qualification-exams/sie-and-exam-restructuring-faq)

@@ -181,6 +181,7 @@ SIE 及格分数为70分（分值从0到100），也就是要答对 70% 的题�
 3. 考试完成后，什么时候出结果？
 
 考完立即出结果，会有一个考试结果报告（Result Report）。比如下面这个通过的报告：
+
 <img src=https://i-blog.csdnimg.cn/direct/c804081ca96b403b8216b7e261dcc0a4.png width=80% />
 
 4. SIE 未通过重考间隔时间？

@@ -181,7 +181,7 @@ SIE 及格分数为70分（分值从0到100），也就是要答对 70% 的题�
 3. 考试完成后，什么时候出结果？
 
 考完立即出结果，会有一个考试结果报告（Result Report）。比如下面这个通过的报告：
-[图片]
+<img src=https://i-blog.csdnimg.cn/direct/c804081ca96b403b8216b7e261dcc0a4.png width=80% />
 
 4. SIE 未通过重考间隔时间？
 
@@ -205,7 +205,7 @@ SIE 考试的重考政策（Cooling-off Period）旨在让你有足够的时间�
 详见 [Reschedule or Cancel Your Appointment](https://www.finra.org/registration-exams-ce/qualification-exams/cancellation-policy)。
 
 # 8.小结
-欢迎大家提建议优化，众人拾柴火焰高。
+众人拾柴火焰高，欢迎大家提建议优化。
 
 ---
 # 参考文献

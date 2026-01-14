@@ -54,6 +54,7 @@ https://www.finra.org/registration-exams-ce/qualification-exams/securities-indus
 选择 continue 后，进行报名缴费。**支付方式支持 Visa、Mastercard 和 American Express 信用卡**。支付成功后会有邮件提醒。
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e20d48948b674a318f088e2d37af8d83.png)
+
 ## 3.3 考试预约
 缴费成功后，会显示考试预约入口，可以选择**线下或线上**考试。考试时间友好，有北京时间白天的考点。
 
@@ -62,6 +63,7 @@ https://www.finra.org/registration-exams-ce/qualification-exams/securities-indus
 预约成功后会收到 Appointment Confirmation 邮件，考试注意事项都有详述。
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/f576e404d0af4bf590aecc731d675f00.png)
+
 ## 3.4 线下考试
 线下考试有广州、香港两个考点。线下预约好后，如果取消需支付40美金的取消费用。
 1. 香港考试及评核局国际及专业考试部：香港新蒲崗爵禄街17號。
@@ -155,6 +157,7 @@ https://www.finra.org/sites/default/files/SIE_Content_Outline.pdf
 - FINRA 官网提供的一套题。
 
 通过以上方法，可以系统了解 SIE 考试内容，为顺利通过考试打下坚实基础。
+
 # 6. 备考技巧
 阅读 《Securities Industry Essentials Exam 2025-2026 For Dummies》可以借助 AI 工具实现中英对照，提高阅读效率。
 
